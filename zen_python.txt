@@ -1,0 +1,33 @@
+'El Zen de Python '
+es un conjunto de principios y directrices que promueven el estilo de programación en Python. 
+Fue presentado por Tim Peters en 1999 como un poema que contiene una serie de máximas y 
+consejos para escribir código Python legible y de alta calidad.
+
+El poema "The Zen of Python" se encuentra dentro del intérprete de Python y se puede acceder 
+utilizando el comando import this. Aquí está el poema completo:
+
+Hermoso es mejor que feo.
+Explícito es mejor que implícito.
+Simple es mejor que complejo.
+Complejo es mejor que complicado.
+Plano es mejor que anidado.
+Espaciado es mejor que denso.
+La legibilidad es importante.
+Los casos especiales no son lo suficientemente especiales como para romper las reglas.
+Aunque lo practico gana a la pureza.
+Los errores nunca deberían pasar silenciosamente.
+A menos que se silencien explícitamente.
+Frente a la ambigüedad, rechaza la tentación de adivinar.
+Debería haber una, y preferiblemente solo una, manera obvia de hacerlo.
+A pesar de que esa manera puede no ser obvia al principio a menos que seas holandés.
+Ahora es mejor que nunca.
+A pesar de que nunca es a menudo mejor que ya mismo.
+Si la implementación es difícil de explicar, es una mala idea.
+Si la implementación es fácil de explicar, puede que sea una buena idea.
+Los espacios de nombres son una gran idea, ¡hagamos más de eso!
+
+Estos principios enfatizan la legibilidad, simplicidad, claridad y consistencia del código Python. 
+Fomentan buenas prácticas de programación, promoviendo el uso de nombres significativos, evitando la necesidad y favoreciendo la expresividad del código.
+
+El Zen de Python es una guía de estilo informal y una filosofía de diseño para programar en Python. 
+Se utiliza como referencia para mantener un código limpio y comprensible, y es muy adoptado por la comunidad Python.
