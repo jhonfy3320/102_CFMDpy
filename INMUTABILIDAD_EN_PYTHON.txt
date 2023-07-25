@@ -1,0 +1,46 @@
+La inmutabilidad en Python se refiere a la propiedad de ciertos tipos de datos que no pueden ser modificados una vez creados. 
+En otras palabras, los valores de los objetos inmutables no pueden cambiar después de su creación. 
+Esto contrasta con los objetos mutables, cuyos valores pueden ser modificados después de su creación.
+
+En Python, los siguientes tipos de datos son inmutables:
+
+Números inmutables: 
+Los objetos numéricos, como enteros (int), números de punto flotante (float) y números complejos (complex) son inmutables.
+
+x = 10
+y = x
+x = x + 1
+print(x)  # Salida: 11
+print(y)  # Salida: 10 (y no cambia)
+
+Cadenas de texto inmutables: 
+Los objetos de tipo str (cadenas de texto) son inmutables. Una vez que se crea una cadena, no se puede modificar su contenido.
+
+mensaje = "Hola"
+mensaje = mensaje + " Mundo"
+print(mensaje)  # Salida: "Hola Mundo"
+
+Tuplas inmutables: 
+Las tuplas son secuencias inmutables de elementos. Una vez creadas, no se pueden modificar ni agregar nuevos elementos.
+
+mi_tupla = (1, 2, 3)
+# Intentar modificar la tupla generará un error:
+# mi_tupla[0] = 10
+Por otro lado, los siguientes tipos de datos son mutables:
+
+Listas mutables: 
+Las listas son secuencias de elementos que pueden ser modificados después de su creación.
+
+mi_lista = [1, 2, 3]
+mi_lista[0] = 10  # Modificar el primer elemento
+print(mi_lista)  # Salida: [10, 2, 3]
+Diccionarios mutables: Los diccionarios son estructuras clave-valor que pueden ser modificadas después de su creación.
+
+mi_diccionario = {'a': 1, 'b': 2, 'c': 3}
+mi_diccionario['a'] = 10  # Modificar el valor asociado a la clave 'a'
+print(mi_diccionario)  # Salida: {'a': 10, 'b': 2, 'c': 3}
+
+La inmutabilidad es útil en Python porque garantiza que ciertos valores no cambien accidentalmente en el código, lo que puede ayudar a prevenir 
+errores y facilitar el razonamiento sobre el comportamiento del programa.
+Por otro lado, los objetos mutables ofrecen mayor flexibilidad y eficiencia cuando se necesitan realizar cambios frecuentes en los datos. 
+Es importante elegir el tipo de datos adecuado según los requisitos y el comportamiento esperado de los datos en un programa.
