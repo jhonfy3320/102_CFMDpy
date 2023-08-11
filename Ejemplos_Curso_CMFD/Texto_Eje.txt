@@ -1,0 +1,21 @@
+Python es un lenguaje de programación versátil y poderoso que fue creado por Guido van Rossum, un programador holandés. La historia de Python se remonta a finales de los años 80, cuando Guido comenzó a trabajar en el desarrollo del lenguaje.
+
+El desarrollo de Python comenzó en diciembre de 1989, cuando Guido van Rossum, que entonces trabajaba en el Centro de Matemáticas y Ciencias de la Computación (CWI) en los Países Bajos, comenzó a trabajar en su propio proyecto de lenguaje de programación. 
+Su objetivo era crear un lenguaje que fuera fácil de leer, escribir y mantener. 
+Guido se inspiró en otros lenguajes como ABC, Modula-3 y Lisp, y quería combinar las características positivas de estos lenguajes en uno solo.
+
+El nombre "Python" proviene de la afición de Guido por la serie de televisión británica "Monty Python's Flying Circus". 
+Aunque el nombre es un poco inusual para un lenguaje de programación, refleja el enfoque humorístico y creativo que Guido quería darle a Python.
+
+Python se lanzó públicamente en febrero de 1991 con la versión 0.9.0. A lo largo de los años, Python ha evolucionado y ha ganado popularidad 
+en todo el mundo debido a su simplicidad, legibilidad y potencia. 
+Ha sido utilizado en una amplia variedad de aplicaciones, desde desarrollo web y científico hasta inteligencia artificial y aprendizaje 
+automático.
+
+El lenguaje Python se caracteriza por su sintaxis limpia y fácil de entender, lo que lo convierte en una excelente opción tanto para 
+principiantes como para programadores experimentados. 
+La comunidad de Python ha crecido enormemente a lo largo de los años, lo que ha llevado al desarrollo de una amplia gama de bibliotecas 
+y marcos de trabajo que hacen que Python sea aún más versátil y adecuado para diversas aplicaciones.
+
+En resumen, Python nació como un proyecto personal de Guido van Rossum en la década de 1980, y desde entonces ha crecido hasta 
+convertirse en uno de los lenguajes de programación más populares y utilizados en todo el mundo.
