@@ -1,0 +1,24 @@
+hola a todos como estan, que cuentan de nuevo he 
+hola emanuel
+hola nico
+hola sebas 
+hola martin 
+que hacen como les a ido he 
+detras del ultimo no hay nadies 
+jejjejejjeje
+jsjajsjajsjsjejej
+jajajajsjajsjaj
+estamos agregando nuevas cosa a estos Archivo hola chicos como estan
+que hacen de nuevo emanuel lo estraño mucho
+ ayer me pude ver con nico un buenr ratoy la pasamos muy chever estamos agregando nuevas cosa a estos Archivo hola chicos como estan
+estamos agregando nuevas cosa a estos Archivo hola chicos como estan
+que hacen de nuevo emanuel lo estraño mucho
+ ayer me pude ver con nico un buenr ratoy la pasamos muy chever 
+
+En Python, el manejo de excepciones es una forma de controlar el flujo de un programa en caso de que ocurra un error o una excepción durante su ejecución.
+
+Para manejar excepciones en Python, se utiliza el bloque try y except. En el bloque try, se coloca el código que se desea ejecutar y que puede generar una excepción. Si durante la ejecución de este código se produce una excepción, el flujo del programa saltará al bloque except correspondiente, donde se puede procesar la excepción y tomar medidas para manejarla.
+
+Aquí hay un ejemplo de cómo manejar una excepción de division por cero en Python:estamos agregando nuevas cosa a estos Archivo hola chicos como estan
+que hacen de nuevo emanuel lo estraño mucho
+ ayer me pude ver con nico un buenr ratoy la pasamos muy chever 
